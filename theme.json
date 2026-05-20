@@ -32,7 +32,7 @@
         "components": {
             "AppBuilderAppShellTemplatePage": {
                 "defaultProps": {
-					 "bg": "#f5f0e8",
+					 "bg": "#615748",
                     "headerHeight": {
                         "base": "4em",
                         "md": "4em"
