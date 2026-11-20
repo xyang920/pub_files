@@ -42,9 +42,9 @@
                         "md": 300,
                         "lg": 350
                     },
-                    "columns": 5,
+                    "columns": 2,
                     "rows": 3,
-                    "rightColumns": 2,
+                    "rightColumns": 1,
                     "bottomRows": 1,
                     "bottomFullWidth": false
                 }
